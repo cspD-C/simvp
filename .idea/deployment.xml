@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="ChenSiPeng@10.255.229.21:1000 password (18)">
+    <serverData>
+      <paths name="ChenSiPeng@10.255.229.21:1000 password (17)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/data/ChenSiPeng/Project/SimVP-master" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ChenSiPeng@10.255.229.21:1000 password (18)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/data/ChenSiPeng/Project/SimVP-master" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@connect.westb.seetacloud.com:28500 password">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
